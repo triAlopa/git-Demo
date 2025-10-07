@@ -1,2 +1,4 @@
 "testhhhh,略懂git" 
-这是main分支对file.txt的内容修改
+<<<<<<< HEAD
+这是main分支对file.txt的内容  这是origin branch的提交内容>>合并后的冲突修改提交
+
