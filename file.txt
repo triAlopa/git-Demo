@@ -1,1 +1,2 @@
 "testhhhh,略懂git" 
+这是main分支对file.txt的内容修改
